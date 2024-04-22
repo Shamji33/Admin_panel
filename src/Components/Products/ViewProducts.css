@@ -1,0 +1,12 @@
+.border-bottom{
+    border-bottom: 1px solid #000 !important;
+}
+tbody, td, tfoot, th, thead, tr{
+    border-style: none !important;
+
+}
+.allrow{
+
+    display: flex;
+    flex-direction: row !important;
+}
